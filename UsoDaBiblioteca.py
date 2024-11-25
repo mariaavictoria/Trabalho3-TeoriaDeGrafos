@@ -2,7 +2,7 @@
 import math
 import time
 import random
-from collections import defaultdict, deque
+from collections import defaultdict
 
 class MinHeap:
     def __init__(self):
